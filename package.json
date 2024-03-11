@@ -1,19 +1,9 @@
 {
-<<<<<<< HEAD
   "dependencies": {
     "express": "^4.18.3",
     "handlebars": "^4.7.8"
-=======
+  },
   "devDependencies": {
     "prettier": "3.2.5"
-  },
-  "dependencies": {
-<<<<<<< HEAD
-    "express": "^4.18.3",
-    "express-handlebars": "^7.1.2"
-=======
-    "npx": "^10.2.2"
->>>>>>> 7bb8d9cf4654f24c415805faa971c7e368fdfaa2
->>>>>>> 1ee0119e0a7292e96915e018e4e992f7c8ad34d2
   }
 }
