@@ -3,6 +3,7 @@
     "prettier": "3.2.5"
   },
   "dependencies": {
-    "npx": "^10.2.2"
+    "express": "^4.18.3",
+    "express-handlebars": "^7.1.2"
   }
 }
